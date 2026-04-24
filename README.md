@@ -4,7 +4,7 @@ A Claude Code skill that runs a systematic LLM citation audit for any domain tra
 
 ## Credit
 
-This skill implements the **4-step GEO citation debug framework** created by **[Malte Landwehr](https://www.linkedin.com/in/malte-landwehr/)** (CPO & CMO, Peec AI), published on LinkedIn:
+This skill implements the **4-step GEO citation debug framework** created by **[Malte Landwehr](https://github.com/MalteBerlin)** (CPO & CMO, Peec AI), published on LinkedIn:
 
 > *"Not getting cited by LLMs? You can debug that!"*
 >
